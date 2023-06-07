@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalil135711&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalil135711&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <h1 align="center">Hi 👋, I'm khalil kadar</h1>
 <h3 align="center">A passionate fullstack developer from Germany</h3>
 <!--
