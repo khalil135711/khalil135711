@@ -21,32 +21,4 @@
 <p align="left">
 <a href="https://www.linkedin.com/posts/khalil-kadar-aa5353204_certificate-of-completion-activity-7071865241935990784-AeTU?utm_source=share&utm_medium=member_desktop" target="blank"><img align="center" src="https://media.licdn.com/dms/image/sync/D4E22AQH8Adw341Y__w/feedshare-shrink_800/0/1686063054763?e=1689206400&v=beta&t=WYrSuM0oZ2MHspxhrv15RG7mCu7be58FF656NwEk4Xk" alt="jee" height="380" width="490" /></a>
 </p>
-  <!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
-</head>
-<body>
-  <div class="container">
-    <div class="row">
-      <div class="col">
-        <a href="#"><img src="image1.jpg" alt="Image 1"></a>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col">
-        <a href="#"><img src="image2.jpg" alt="Image 2"></a>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col">
-        <a href="#"><img src="image3.jpg" alt="Image 3"></a>
-      </div>
-    </div>
-    <!-- Add more rows and images as needed -->
-  </div>
-
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
-</body>
-</html>
-
+  
