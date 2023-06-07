@@ -21,3 +21,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/posts/khalil-kadar-aa5353204_certificate-of-completion-activity-7071865241935990784-AeTU?utm_source=share&utm_medium=member_desktop" target="blank"><img align="center" src="https://media.licdn.com/dms/image/sync/D4E22AQH8Adw341Y__w/feedshare-shrink_800/0/1686063054763?e=1689206400&v=beta&t=WYrSuM0oZ2MHspxhrv15RG7mCu7be58FF656NwEk4Xk" alt="jee" height="380" width="490" /></a>
 </p>
+  <ul style="list-style-type: none; margin: 0; padding: 0; display: flex;">
+    <li style="margin-right: 10px;"><a href="#"><img src="image1.jpg" alt="Image 1"></a></li>
+    <li style="margin-right: 10px;"><a href="#"><img src="image2.jpg" alt="Image 2"></a></li>
+    <li style="margin-right: 10px;"><a href="#"><img src="image3.jpg" alt="Image 3"></a></li>
+    <!-- Add more list items as needed -->
+  </ul>
