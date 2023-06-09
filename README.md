@@ -2,9 +2,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalil135711&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <h1 align="center">Hi 👋, I'm khalil kadar</h1>
 <h3 align="center">A passionate fullstack developer from Germany</h3>
-<!--
 
--->
+
 <img align="right" alt="Coding" width="400"  src="https://www.techuz.com/blog/wp-content/uploads/2018/08/How-to-hire-web-developers-from-India.gif">
 
 - 🌱 I’m currently learning **Informatik & Mathematik**
