@@ -1,5 +1,6 @@
 ![github](https://github.com/khalil135711/khalil135711/assets/89642249/4915e60a-4eeb-405d-8bf4-79f003e33c03)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalil135711&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalil135711&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <h1 align="center">Hi 👋, I'm khalil kadar</h1>
