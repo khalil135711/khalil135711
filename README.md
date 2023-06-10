@@ -1,7 +1,4 @@
-
-
-![github](https://github.com/khalil135711/khalil135711/assets/89642249/fc62af78-01a7-410f-818b-5664f91516dc)
-
+![github](https://github.com/khalil135711/khalil135711/assets/89642249/4915e60a-4eeb-405d-8bf4-79f003e33c03)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalil135711&show_icons=true&theme=transparent)
