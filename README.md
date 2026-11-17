@@ -1,7 +1,7 @@
 <h1 align="center">Khalil Kadar</h1>
 <p align="center">
   <strong>IT-Sicherheit · SOC / Blue Team · Softwareentwicklung</strong><br>
-  B.Sc. Angewandte Mathematik &amp; Informatik · Master-Student Cyber Security (H-BRS)<br>
+  B.Sc. Angewandte Mathematik &amp; Informatik (FH Aachen) · Master-Student Cyber Security (H-BRS)<br>
   Bonn, Deutschland
 </p>
 
@@ -14,13 +14,10 @@
 
 ## Über mich
 
-Ich bin Informatiker mit Bachelorabschluss in Angewandter Mathematik und Informatik (FH Aachen) und studiere seit Oktober 2026 Cyber Security an der Hochschule Bonn-Rhein-Sieg. Mein Schwerpunkt liegt auf der Erkennung und Abwehr von Angriffen (SOC / Blue Team) und auf sicherer Softwareentwicklung.
+Ich bin Informatiker mit Bachelorabschluss in Angewandter Mathematik und Informatik (FH Aachen) und studiere seit Oktober 2025 Cyber Security an der Hochschule Bonn-Rhein-Sieg. Mein Schwerpunkt liegt auf der Erkennung und Abwehr von Angriffen (SOC / Blue Team) und auf sicherer Softwareentwicklung.
 
 Praktische Erfahrung habe ich als Werkstudent bei Gen Re (Köln) und DOWÜ (Würselen-Aachen) sowie als Informatiklehrer an der Euro Akademie Wiesbaden gesammelt. In meiner Bachelorarbeit habe ich eine verschlüsselte Kommunikationsarchitektur für vernetzte IoT-Geräte entworfen und umgesetzt (MQTT mit TLS).
 
-**Ich arbeite aktuell an:** einem KI-gestützten Netzwerk-Monitoring für das Heimnetz auf einem ESP32-S3 und an einer Zeiterfassungs-App mit automatischer Buchhaltung.
-
-**Ich suche:** Werkstudentenstellen und Praktika in den Bereichen SOC, Blue Team und Cloud-Security.
 
 ---
 
@@ -88,7 +85,7 @@ E-Mail-Antwortgenerator, KI-POS-System und ein Lernportal.
 <!-- TODO: Pro Projekt ein eigener Eintrag mit Link, falls die Repositories öffentlich sind -->
 
 **Weitere Web-Arbeiten**
-Mein letztes Web-Projekt: [erstado.com](https://www.erstado.com)
+Mein letztes Web-Projekt: [erstado.com](https://erstado.xo.je/?i=1)
 
 ---
 
